@@ -18,7 +18,7 @@ editor: vs code / neovim / visual studio
 languages: c, c++, javascript, python
 focus: games, systems, graphics, real-time
 current: unknown
-uptime: 4y 5m 15d (since 26 mar 2022)
+uptime: 4y 5m 16d (since 26 mar 2022)
 ```
 
 </td>
